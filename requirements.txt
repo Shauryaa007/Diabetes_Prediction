@@ -1,0 +1,5 @@
+pip install pickle-mixin
+
+pip install streamlit
+
+streamlit hello

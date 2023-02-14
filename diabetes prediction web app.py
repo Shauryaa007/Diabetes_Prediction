@@ -4,7 +4,7 @@ import pickle
 
 
 # loading the saved model
-loaded_model = pickle.load(open('C:/Users/swesh/OneDrive/Desktop/New folder/trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('C:/Users/swesh/OneDrive/Desktop/Diabetes_Prediction/trained_model.sav', 'rb'))
 
 
 def diabetes_prediction(input_data):
